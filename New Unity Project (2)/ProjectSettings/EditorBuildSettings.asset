@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Lean/GUI/Examples/04 Modal.unity
+    guid: 4b102da89e54f5742be3e784fd834f64
   m_configObjects: {}
